@@ -1,0 +1,24 @@
+{
+  "name": "app-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto para aprendizado de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ertakano/app-nodejs.git"
+  },
+  "author": "Érico Takano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ertakano/app-nodejs/issues"
+  },
+  "homepage": "https://github.com/ertakano/app-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16",
+    "nodemon": "^2.0.7"
+  }
+}
